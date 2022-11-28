@@ -13,7 +13,7 @@ ex [Tink](https://tink.com/), [Betsson](https://www.betssongroup.com/), [Qliro](
 
 ### Languages
 
-[![C# Badge](https://img.shields.io/badge/-C%23-474A8A?style=for-the-badge&labelColor=black&logo=csharp&logoColor=474A8A)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![Go Badge](https://img.shields.io/badge/-Go-3178C6?style=for-the-badge&labelColor=black&logo=go&logoColor=3178C6)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=274de4)](#) 
+[![C# Badge](https://img.shields.io/badge/-C%23-474A8A?style=for-the-badge&labelColor=black&logo=csharp&logoColor=474A8A)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=274de4)](#) 
 [![Python Badge](https://img.shields.io/badge/-Python-FCE15A?style=for-the-badge&labelColor=black&logo=python&logoColor=#45779E)](#)  
 
 
@@ -27,7 +27,7 @@ ex [Tink](https://tink.com/), [Betsson](https://www.betssongroup.com/), [Qliro](
 
 ### Frameworks
 
-[![.NET Badge](https://img.shields.io/badge/-.NET-7DAFB6a?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=61DAFB)](#) [![Fastify Badge](https://img.shields.io/badge/-Fastify-61DAFB?style=for-the-badge&labelColor=black&logo=fastify&logoColor=61DAFB)](#) [![VueJS Badge](https://img.shields.io/badge/-Vue-069514?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=069514)](#)
+[![.NET Badge](https://img.shields.io/badge/-.NET-7DAFB6a?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=61DAFB)](#) [![Fastify Badge](https://img.shields.io/badge/-Fastify-61DAFB?style=for-the-badge&labelColor=black&logo=fastify&logoColor=61DAFB)](#) [![GinGonic Badge](https://img.shields.io/badge/-Gin-F3DF2D?style=for-the-badge&labelColor=black&logo=go&logoColor=F3DF2D)](#) [![VueJS Badge](https://img.shields.io/badge/-Vue-069514?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=069514)](#)
 
 ### Infrastructure
 
