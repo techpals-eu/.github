@@ -4,7 +4,7 @@ We are an company built by software developers with solid experience, from small
 
 We have worked in different industries like FinTech, HealthTech and Telecom. TechPals is characterized by a "just do it" mentality. We do not turn away from complicated and difficult challenges, on the contrary, we thrive best there.
 
-ex [Tink](https://tink.com/), [Betsson](https://www.betssongroup.com/), [Qliro](https://www.qliro.com/)
+ex [Tink](https://tink.com/), [Betsson](https://www.betssongroup.com/), [Qliro](https://www.qliro.com/), [FlipDish](https://www.flipdish.com), [hi](hi.health), [Ericsson](https://ericsson.com)
 
 
 ## [techpals.eu](https://www.techpals.eu/)
